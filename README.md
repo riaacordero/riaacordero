@@ -19,16 +19,16 @@ I am no master, but I do code. I'm currently learning:
 
 Aside from coding, I also do:
 
-- UI/UX Design & Prototyping via [Figma](www.figma.com)
+- UI/UX Design & Prototyping via [Figma](https://www.figma.com)
 - Digital illustration
 - Graphic design
 - Creative Writing
 
 ## Connect with me!
 
-- [LinkedIn](www.linkedin.com/in/riritheartist)
-- [Behance](www.behance.net/riritheartist)
-- [Instagram](www.instagram.com/riritheartist)
+- [LinkedIn](https://www.linkedin.com/in/riritheartist)
+- [Behance](https://www.behance.net/riritheartist)
+- [Instagram](https://www.instagram.com/riritheartist)
 - Work email: riarcordero@gmail.com
 
 ## Project Archive 📦
