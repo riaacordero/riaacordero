@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-I am Ria, a passionate artist, anything tech enthusiast, and aspiring web and app developer!
+I am Ria, a passionate artist, anything tech enthusiast, and aspiring front-end web and app developer!
 
 I am a 19-year old Computer Science student from [Malayan Colleges Mindanao](https://mcm.edu.ph). I am also a Sublead VP for Communications for DEVCON Davao Chapter and an Area Representative for PSITS-XI! I am a freelance digital illustrator and an enthusiast in UI/UX research & design. As an artist, I have also competed in few regional art competitions.
 
