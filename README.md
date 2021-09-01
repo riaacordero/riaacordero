@@ -13,7 +13,7 @@ I am no master, but I do code. I'm currently learning:
 - Javascript
 - Java
 - Python
-- Dart (consider me a Flutter enthusiast!)
+- Dart/Flutter
 
 ## Other Skills 🎨
 
