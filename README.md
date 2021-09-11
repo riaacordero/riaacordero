@@ -34,6 +34,7 @@ Aside from coding, I also do:
 ## Project Archive 📦
 
 - [MCM CCIS Website](http://mcm-ccis.org/)
+- [Malayan Arcade 2021](https://github.com/M-SCRIPT/MalayanArcade)
 
 Portfolio website will be up soon! 🤞
 
