@@ -2,16 +2,16 @@
 
 I am Ria, a passionate artist, anything tech enthusiast, and aspiring front-end web and app developer!
 
-I am a 19-year old Computer Science student from [Malayan Colleges Mindanao](https://mcm.edu.ph). I am also an active volunteer for DEVCON Davao Chapter and a former representative for PSITS-XI! I am a freelance digital illustrator and an enthusiast in UI/UX research & design. As an artist, I have also competed in few regional art competitions.
+I am a 20-year old Computer Science student from [Malayan Colleges Mindanao](https://mcm.edu.ph). I am currently the VP for Communications of DEVCON Davao Chapter and a former representative for PSITS-XI! I am a freelance digital illustrator and an enthusiast in UI/UX research & design. As an artist, I have also competed in few regional art competitions.
 
-As a tech enthusiast, I love everything software-related and *Fun fact: I am an Apple and Google fangirl!* I also enjoy studying about human-computer psychology and how it relates to creating a good user experience.
+As a tech enthusiast, I love everything software-related and *Fun fact: I am an Apple and Google fangirl!*
 
 ## Programming Languages 👩‍💻
 
 I am no master, but I do code. I'm currently learning:
 
 - HTML/CSS
-- Javascript
+- ReactJS
 - Java
 - Python
 - Dart/Flutter
@@ -35,6 +35,7 @@ Web Development:
 - [MCM CCIS Website](http://mcm-ccis.org/)
 - [Malayan Arcade 2021](https://github.com/M-SCRIPT/MalayanArcade)
 - #CCisINLOVE: MCM-CCIS Valentine Wall (archived)
+- Project OCP (TBA)
 
 Schoolworks:
 - [Pixel Witch](https://github.com/riaacordero/Pixel-Witch)
