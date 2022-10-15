@@ -1,10 +1,11 @@
 # Hello there! 👋
 
-I am Ria, a passionate artist, anything tech enthusiast, and aspiring front-end web and app developer!
+I am Ria, a 20-year old Computer Science student from [Mapúa Malayan Colleges Mindanao](https://mcm.edu.ph). I am an artist, anything tech enthusiast, and aspiring front-end web and app developer! I am also a tech volunteer who is currently participating in the following tech communities:
 
-I am a 20-year old Computer Science student from [Malayan Colleges Mindanao](https://mcm.edu.ph). I am currently the VP for Communications of DEVCON Davao Chapter and a former representative for PSITS-XI! I am a freelance digital illustrator and an enthusiast in UI/UX research & design. As an artist, I have also competed in few regional art competitions.
+- GDSC Lead of [GDSC Mapúa-MCM](https://gdsc.community.dev/mapua-malayan-colleges-mindanao/) 
+- VP for Communications of [DEVCON Davao](https://devcon.ph/davao/)
 
-As a tech enthusiast, I love everything software-related and *Fun fact: I am an Apple and Google fangirl!*
+I am a freelance digital illustrator and an enthusiast in UI/UX research & design. As an artist, I have also competed in few regional art competitions. As a tech enthusiast, I love everything software-related and *Fun fact: I am an Apple and Google fangirl!*
 
 ## Programming Languages 👩‍💻
 
