@@ -1,11 +1,14 @@
 # Hello there! 👋
 
-I am Ria, a 20-year old Computer Science student from [Mapúa Malayan Colleges Mindanao](https://mcm.edu.ph). I am an artist, anything tech enthusiast, and aspiring front-end web and app developer! I am also a tech volunteer who is currently participating in the following tech communities:
+I am Ria, a 21-year old Computer Science student from [Mapúa Malayan Colleges Mindanao](https://mcm.edu.ph). I am an artist, anything tech enthusiast, and aspiring front-end web and app developer! I am also a tech volunteer who is currently participating in the following tech communities:
 
 - GDSC Lead of [GDSC Mapúa-MCM](https://gdsc.community.dev/mapua-malayan-colleges-mindanao/) 
-- VP for Communications of [DEVCON Davao](https://devcon.ph/davao/)
+- (Former) VP for Communications of [DEVCON Davao](https://devcon.ph/davao/)
+- Volunteer for [GDG Davao](https://gdg.community.dev/gdg-davao/)
 
-I am a freelance digital illustrator and an enthusiast in UI/UX research & design. As an artist, I have also competed in few regional art competitions. As a tech enthusiast, I love everything software-related and *Fun fact: I am an Apple and Google fangirl!*
+I aspire to become an inspiring figure to women of my age and encourage them to explore a career in technology.
+
+I am a freelance digital illustrator and an enthusiast in UI/UX research & design. As an artist, I have also competed in few regional art competitions. As a tech enthusiast, I love everything software-related— fun fact, I am an Apple and Google fangirl!
 
 ## Programming Languages 👩‍💻
 
@@ -16,6 +19,7 @@ I am no master, but I do code. I'm currently learning:
 - Java
 - Python
 - Dart/Flutter
+- Firebase
 
 ## Other Skills 🎨
 
@@ -23,7 +27,7 @@ Aside from coding, I also do:
 
 - UI/UX Design & Prototyping via [Figma](https://www.figma.com)
 - Digital illustration
-- Social media management
+- Email and social media management
 - Graphic design
 
 ## Project Archive 📦
@@ -33,13 +37,13 @@ UI/UX (without coding):
 - [PSITS-XI Website](https://www.psits11.org/)
 
 Web Development:
-- [MCM CCIS Website](http://mcm-ccis.org/)
+- MCM-CCIS Website (archived)
 - [Malayan Arcade 2021](https://github.com/M-SCRIPT/MalayanArcade)
-- #CCisINLOVE: MCM-CCIS Valentine Wall (archived)
-- Project OCP (TBA)
+- [Project OCP](https://www.mmcm-ocp.com/)
 
 Schoolworks:
 - [Pixel Witch](https://github.com/riaacordero/Pixel-Witch)
+- Aqualert (TBA)
 
 ## Connect with me! 📫
 
