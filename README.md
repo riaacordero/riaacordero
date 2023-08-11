@@ -1,8 +1,8 @@
 # Hello there! 👋
 
-I am Ria, a 21-year old Computer Science student from [Mapúa Malayan Colleges Mindanao](https://mcm.edu.ph). I am an artist, anything tech enthusiast, and aspiring front-end web and app developer! I am also a tech volunteer who is currently participating in the following tech communities:
+I am Ria, a 21-year old Computer Science student from [Mapúa Malayan Colleges Mindanao](https://mcm.edu.ph) and a UX/Web Designer at [Xugar](https://xugar.com.au/). I am an artist, anything tech enthusiast, and aspiring front-end web and app developer! I am also a tech volunteer who is currently participating in the following tech communities:
 
-- GDSC Lead of [GDSC Mapúa-MCM](https://gdsc.community.dev/mapua-malayan-colleges-mindanao/) 
+- Former GDSC Lead of [GDSC Mapúa-MCM](https://gdsc.community.dev/mapua-malayan-colleges-mindanao/) 
 - (Former) VP for Communications of [DEVCON Davao](https://devcon.ph/davao/)
 - Volunteer for [GDG Davao](https://gdg.community.dev/gdg-davao/)
 
