@@ -1,10 +1,11 @@
 # Hello there! 👋
 
-I am Ria, a 21-year old Computer Science student from [Mapúa Malayan Colleges Mindanao](https://mcm.edu.ph) and a UX/Web Designer at [Xugar](https://xugar.com.au/). I am an artist, anything tech enthusiast, and aspiring front-end web and app developer! I am also a tech volunteer who is currently participating in the following tech communities:
+I am Ria, a 21-year old Computer Science student from [Mapúa Malayan Colleges Mindanao](https://mcm.edu.ph) and a UX/Web Designer at [Xugar](https://xugar.com.au/). I am an artist and anything tech enthusiast! I enjoy learning about human-centered design and employing them in my UI/UX career. I am also a tech volunteer who is currently participating in the following tech communities:
 
 - Former GDSC Lead of [GDSC Mapúa-MCM](https://gdsc.community.dev/mapua-malayan-colleges-mindanao/) 
-- (Former) VP for Communications of [DEVCON Davao](https://devcon.ph/davao/)
-- Volunteer for [GDG Davao](https://gdg.community.dev/gdg-davao/)
+- Core Volunteer and Former VP for Communications at [DEVCON Davao](https://devcon.ph/davao/)
+- Core Volunteer at [GDG Davao](https://gdg.community.dev/gdg-davao/)
+- One of the 7 Founders of [Davao Interschool Computer Enthusiasts](https://www.facebook.com/dice.dvo/)
 
 I aspire to become an inspiring figure to women of my age and encourage them to explore a career in technology.
 
@@ -20,6 +21,8 @@ I am no master, but I do code. I'm currently learning:
 - Python
 - Dart/Flutter
 - Firebase
+
+I'm also interested in learning no-code technologies like Webflow and Flutterflow.
 
 ## Other Skills 🎨
 
@@ -52,7 +55,7 @@ Schoolworks:
 - [Instagram](https://www.instagram.com/riritheartist)
 - Work email: riarcordero@gmail.com
 
-Portfolio website will be up soon! 🤞
+Visit my portfolio website [here!](https://riritheartist.webflow.io/) 🤞
 
 <!--
 **riaacordero/riaacordero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
