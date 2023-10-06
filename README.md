@@ -21,6 +21,7 @@ I am no master, but I do code. I'm currently learning:
 - Python
 - Dart/Flutter
 - Firebase
+- TensorFlow
 
 I'm also interested in learning no-code technologies like Webflow and Flutterflow.
 
