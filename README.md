@@ -1,12 +1,12 @@
 # Hello there! 👋
 
-I am Ria, a 21-year old Computer Science student from [Mapúa Malayan Colleges Mindanao](https://mcm.edu.ph) and a UX/Web Designer at [Xugar](https://xugar.com.au/). I am an artist and anything tech enthusiast! I enjoy learning about human-centered design and employing them in my UI/UX career. I am also a tech volunteer who is currently participating in the following tech communities:
+I am Ria, a 22-year old Computer Science student from [Mapúa Malayan Colleges Mindanao](https://mcm.edu.ph) and a UX/Web Designer at [Xugar](https://xugar.com.au/). I am an artist and anything tech enthusiast! I enjoy learning about human-centered design and employing them in my UI/UX career. I am also a tech volunteer who is currently participating in the following tech communities:
 
-- Former GDSC Lead of [GDSC Mapúa-MCM](https://gdsc.community.dev/mapua-malayan-colleges-mindanao/) 
-- Core Volunteer and Former VP for Communications at [DEVCON Davao](https://devcon.ph/davao/)
-- Core Volunteer at [GDG Davao](https://gdg.community.dev/gdg-davao/)
 - One of the 7 Founders of [Davao Interschool Computer Enthusiasts](https://www.facebook.com/dice.dvo/)
-
+- Creatives Head and Former VP for Communications at [DEVCON Davao](https://devcon.ph/davao/)
+- Former GDSC Lead of [GDSC Mapúa-MCM](https://gdsc.community.dev/mapua-malayan-colleges-mindanao/) 
+- Core Volunteer at [GDG Davao](https://gdg.community.dev/gdg-davao/)
+  
 I aspire to become an inspiring figure to women of my age and encourage them to explore a career in technology.
 
 I am a freelance digital illustrator and an enthusiast in UI/UX research & design. As an artist, I have also competed in few regional art competitions. As a tech enthusiast, I love everything software-related— fun fact, I am an Apple and Google fangirl!
