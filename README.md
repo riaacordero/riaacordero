@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-I am Ria, a 22-year old UI/UX designer at [Xugar](https://xugar.com.au/) and a Computer Science graduate from [Mapúa Malayan Colleges Mindanao](https://mcm.edu.ph). I am an artist and anything tech enthusiast! I enjoy learning human-computer interaction, machine learrning, and digital marketing. 
+I am Ria, a 23-year old SEO and UX Specialist at [Klarity Lab](https://klaritylab.au/) and a Computer Science graduate from [Mapúa Malayan Colleges Mindanao](https://mcm.edu.ph). I am an artist and anything tech enthusiast! I enjoy learning human-computer interaction, machine learrning, and digital marketing. 
 
 I am a community builder and a tech volunteer who is currently participating in the following tech communities:
 
@@ -33,7 +33,7 @@ I now only code for fun. I enjoy I currently enjoy learning:
 
 ## Take a peek at my projects! 🖼️
 
-Visit my portfolio website [here!](https://riritheartist.webflow.io/)
+Visit my portfolio website [here!](https://riritheartist.com/)
 
 
 <!--
